@@ -5,7 +5,7 @@ from datetime import datetime
 def print_menu():
 	system("cls")
 	print("""
-	Penyimpanan Kontak Sederhana
+	Penyimpanan Data Penumpang Sederhana
 	[1]. Lihat Semua Data Penumpang
 	[2]. Tambah Data Penumpang Baru
 	[3]. Cari Data Penumpang
